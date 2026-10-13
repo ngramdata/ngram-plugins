@@ -11,6 +11,7 @@
   },
   "homepage": "https://www.ngram.com/docs/mcp",
   "repository": "https://github.com/ngramdata/ngram-plugins",
+  "privacyPolicyUrl": "https://www.ngram.com/privacy",
   "license": "MIT",
   "keywords": ["video", "ai-video", "explainer", "image-generation", "mcp"]
 }
