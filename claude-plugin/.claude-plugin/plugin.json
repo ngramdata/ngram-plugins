@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ngram",
+  "displayName": "ngram",
+  "version": "1.0.0",
+  "description": "Create narrated AI videos and images with ngram: preview the settings and cost, confirm, then track progress and get the finished file.",
+  "author": {
+    "name": "ngram",
+    "email": "eng@ngram.com",
+    "url": "https://www.ngram.com"
+  },
+  "homepage": "https://www.ngram.com/docs/mcp",
+  "repository": "https://github.com/ngramdata/ngram-plugins",
+  "license": "MIT",
+  "keywords": ["video", "ai-video", "explainer", "image-generation", "mcp"]
+}

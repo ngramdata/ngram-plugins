@@ -5,17 +5,18 @@ Official [ngram](https://www.ngram.com) plugins for AI coding assistants. A plug
 | Assistant | Folder                             |
 | --------- | ---------------------------------- |
 | Cursor    | [`cursor-plugin`](./cursor-plugin) |
+| Claude    | [`claude-plugin`](./claude-plugin) |
 
 ## What a plugin contains
 
-- One hosted MCP server, `https://mcp.ngram.com`, over HTTPS.
+- One hosted MCP server on `https://mcp.ngram.com`, over HTTPS.
 - Two skills, `create-video` and `create-image`.
 
 There are no hooks, no scripts and no local commands, and nothing is installed on your machine.
 
 ## Network and credentials
 
-- The plugin calls `https://mcp.ngram.com` and nothing else.
+- A plugin calls `https://mcp.ngram.com` and nothing else.
 - Sign-in is OAuth with your ngram account on first connect. No API key is stored, and no environment variables, files or tokens are read from your machine.
 
 ngram's privacy policy is at https://www.ngram.com/privacy.
