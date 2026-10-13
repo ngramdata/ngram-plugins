@@ -1,0 +1,18 @@
+{
+  "name": "ngram",
+  "displayName": "ngram",
+  "version": "1.0.0",
+  "description": "Create narrated AI videos and business images: preview the settings and cost, confirm, then get the finished file.",
+  "author": {
+    "name": "ngram",
+    "email": "eng@ngram.com"
+  },
+  "homepage": "https://www.ngram.com/docs/mcp",
+  "repository": "https://github.com/ngramdata/ngram-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["ngram", "video", "explainer", "image", "marketing", "mcp"],
+  "category": "integrations",
+  "tags": ["ngram", "video", "design", "mcp"],
+  "mcpServers": "./mcp.json"
+}

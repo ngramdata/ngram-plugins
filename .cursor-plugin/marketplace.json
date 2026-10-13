@@ -1,0 +1,17 @@
+{
+  "name": "ngram",
+  "owner": {
+    "name": "ngram",
+    "email": "eng@ngram.com"
+  },
+  "metadata": {
+    "description": "Official ngram plugins for Cursor."
+  },
+  "plugins": [
+    {
+      "name": "ngram",
+      "source": "./cursor-plugin",
+      "description": "Create narrated AI videos and business images: preview the settings and cost, confirm, then get the finished file."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ngram": {
+      "type": "http",
+      "url": "https://mcp.ngram.com"
+    }
+  }
+}
